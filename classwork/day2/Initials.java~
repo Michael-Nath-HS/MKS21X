@@ -1,0 +1,13 @@
+public class Initials {
+    public static void main(Strings[] args) {
+	System.out.println("*                 *        *         *");
+	System.out.println("* **           ** *        * *       *");
+	System.out.println("*    **     **    *        *  *      *");
+	System.out.println("*       **        *        *   *     *");
+	System.out.println("*                 *        *    *    *");
+	System.out.println("*                 *        *     *   *");
+	System.out.println("*                 *        *      *  *");
+	System.out.println("*                 *        *       * *");
+	System.out.println("*                 *        *         *");
+    }
+}
