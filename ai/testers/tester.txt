@@ -1,0 +1,9 @@
+﻿push Fred
+push abe
+push MARY
+pop
+push beth
+push George
+pop
+push harry
+tolist

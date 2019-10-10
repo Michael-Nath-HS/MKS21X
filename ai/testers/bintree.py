@@ -12,6 +12,7 @@ class bintree:
 
     def append(self, value):
         anode = node(value)
+
         if self.root == None:
             self.root = anode
         else:
@@ -21,13 +22,13 @@ class bintree:
                     cur.small = anode
                     anode.par = cur
                     return
-                if (anode.value > cur.value) and (cur.great == None):
+                elif (anode.value > cur.value) and (cur.great == None):
                     cur.great = anode
                     anode.par = cur
                     return
-                if (anode.value > cur.value) and (cur.great != None):
+                elif (anode.value > cur.value) and (cur.great != None):
                     cur = cur.great
-                if (anode.value < cur.value) and (cur.small != None):
+                elif (anode.value < cur.value) and (cur.small != None):
                     cur = cur.small
 
     def isThere(self, val):
