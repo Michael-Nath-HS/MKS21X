@@ -42,7 +42,9 @@ to Show-set
     grid 8
     set locations []
     let main item which fullfile
-    set min-path item 1 main
+    set min-path 1
+    if length main > 1 [set min-path item 1 main]
+    ;set min-path item 1 main
     let xs item (which + 1) fullfile
     let ys item (which + 2) fullfile
     let i 0
@@ -66,10 +68,10 @@ to make-point [x y id]
 end
 
 to best-path
-  if dataset != "A4" and dataset != "A8" [
-    user-message "Not yet"
-    stop
-  ]
+;  if dataset != "A4" and dataset != "A8" [
+;    user-message "Not yet"
+;    stop
+;  ]
   let which findSet dataset fullfile
   if which >= 0 [
     let path item (which + 3) fullfile
@@ -79,6 +81,7 @@ end
 
 to Draw-Path [path mycolor mywidth]
     if item (length path - 1) path != 0 [set path lput 0 path ]
+    ;print path
     let i 1
     while [i < length path] [
       let t0 item (item (i - 1) path) locations
@@ -113,7 +116,8 @@ to draw-line [x0 y0 x1 y1 my-color my-width]
   ]
 end
 
-to my-path
+to my-path-from-file
+  user-message "Select the file containing your ordered list of points for this dataset"
   let filename user-file
   if filename != False [
     let paths csv:from-file filename
@@ -126,6 +130,14 @@ to my-path
        set student-path-length PathLength the-path
     ]
   ]
+end
+
+to my-path-from-list
+  let the-row user-input "Provide the list of points in order (e.g. 0,5,2,3,1,4)"
+  let the-path item 0 csv:from-string the-row
+  print (word "the-path: " the-path)
+  Draw-Path the-path red 1.5
+  set student-path-length PathLength the-path
 end
 
 to-report PathLength [path]
@@ -159,7 +171,6 @@ to show-dist [which a b]
   ask a [set d distance b]
   show (word which ": dist: " d " (" ax "," ay ") - (" bx "," by ")")
 end
-
 @#$#@#$#@
 GRAPHICS-WINDOW
 338
@@ -191,18 +202,18 @@ ticks
 TEXTBOX
 36
 21
-257
-52
-Traveling Salesman Paths
+294
+49
+Traveling Salesman Paths v.1.1
 17
 0.0
 1
 
 BUTTON
-71
-80
-135
-113
+68
+79
+132
+112
 NIL
 Setup
 NIL
@@ -222,8 +233,8 @@ CHOOSER
 175
 Dataset
 Dataset
-"A4" "A8" "A9" "A9-2" "A10" "A11" "A12" "A12-2" "A13" "A13-2"
-9
+"A4" "A8" "A9" "A9-2" "A10" "A11" "A12" "A12-2" "A13" "A13-2" "A30" "A50"
+11
 
 BUTTON
 195
@@ -243,10 +254,10 @@ NIL
 1
 
 MONITOR
-45
-257
-143
-302
+19
+258
+117
+303
 Min path length
 min-path
 17
@@ -254,10 +265,10 @@ min-path
 11
 
 BUTTON
-37
-206
-166
-239
+11
+207
+140
+240
 Show the best path
 best-path
 NIL
@@ -271,12 +282,12 @@ NIL
 1
 
 BUTTON
-207
-207
-317
-240
-Show my path
-My-path
+163
+208
+330
+241
+Show my path (from file)
+My-path-from-file
 NIL
 1
 T
@@ -288,10 +299,10 @@ NIL
 1
 
 MONITOR
-207
-256
-312
-301
+177
+299
+282
+344
 Your path length
 student-path-length
 3
@@ -299,52 +310,41 @@ student-path-length
 11
 
 MONITOR
-213
-316
-270
-361
+183
+359
+240
+404
 Ratio
 Calc-Ratio
 4
 1
 11
 
+BUTTON
+162
+247
+328
+280
+Show my path (from list)
+my-path-from-list
+NIL
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
 @#$#@#$#@
 ## WHAT IS IT?
 
-(a general understanding of what the model is trying to show or explain)
-
-## HOW IT WORKS
-
-(what rules the agents use to create the overall behavior of the model)
-
-## HOW TO USE IT
-
-(how to use the model, including a description of each of the items in the Interface tab)
-
-## THINGS TO NOTICE
-
-(suggested things for the user to notice while running the model)
-
-## THINGS TO TRY
-
-(suggested things for the user to try to do (move sliders, switches, etc.) with the model)
-
-## EXTENDING THE MODEL
-
-(suggested things to add or change in the Code tab to make the model more complicated, detailed, accurate, etc.)
-
-## NETLOGO FEATURES
-
-(interesting or unusual features of NetLogo that the model uses, particularly in the Code tab; or where workarounds were needed for missing features)
-
-## RELATED MODELS
-
-(models in the NetLogo Models Library and elsewhere which are of related interest)
+It's a viewer for the Traveling Salesman Problem.
 
 ## CREDITS AND REFERENCES
 
-(a reference to the model's URL on the web if it has one, as well as any other necessary credits, citations, and links)
+Peter Brooks, Stuyvesant High School, 2019
 @#$#@#$#@
 default
 true
