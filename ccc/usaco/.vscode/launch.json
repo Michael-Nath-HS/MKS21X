@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RecursiveLnFact",
+            "request": "launch",
+            "mainClass": "RecursiveLnFact",
+            "projectName": "usaco_d4c7a9ca"
+        }
+    ]
+}

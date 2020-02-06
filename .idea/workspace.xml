@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="054fff33-63b6-4b86-8e3f-efef5914b939" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ai/tictactoe/.ipynb_checkpoints/ttt_calculations-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/tictactoe/ttt_calcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/tictactoe/ttt_calculations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/clion/algo/a_very_big_sum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/clion/algo/compare_the_triplets.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/clion/algo/diagonal_difference.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/clion/algo/simple_array_sum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/clion/chap3/string.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/randomstuff/rangeminquery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/randomstuff/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/randomstuff/stack_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/sorting/mergesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/sorting/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/sorting/shell_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/spoj/monkandnicestrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc/usaco/addnbit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bwsi/PythonHW-1.2.4/heat_dispersion/HW_heat_dispersion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bwsi/PythonHW-1.2.4/heat_dispersion/HW_heat_dispersion.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ccc/usaco/insertion_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/ccc/sorting/insertion_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/day3/Ruler.java" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/day3/Ruler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RevoQpH3wFzsLBrBol5zDWfTfS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="12" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/classwork/draw" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ai" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homeworks/hw31" />
+      <recent name="$PROJECT_DIR$/classwork" />
+      <recent name="$PROJECT_DIR$/homeworks" />
+      <recent name="$PROJECT_DIR$/day0" />
+      <recent name="$PROJECT_DIR$/day0/hello" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AP1995">
+    <configuration name="AP1995" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AP1995" />
+      <module name="apcs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary" />
+      <module name="apcs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinomialCoefficients" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinomialCoefficients" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clefairy" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clefairy" />
+      <module name="apcs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayOfWeek" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOfWeek" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="8 2 1953" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecToHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecToHex" />
+      <module name="apcs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dice" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dice" />
+      <module name="apcs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscreteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiscreteTest" />
+      <module name="apcs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormatEquation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FormatEquation" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="123 43" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormatFactorial" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FormatFactorial" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="14" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FracTri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FracTri" />
+      <module name="apcs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntegerDemo" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="87654 23456" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Minima" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Minima" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimaTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimaTest" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="100000 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowersOfK" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowersOfK" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
+      <module name="apcs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem1" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="6 8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomInclusive" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomInclusive" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="3 7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rumors" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rumors" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="5 10000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TenHellos" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TenHellos" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="321" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSort" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeSort" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="5 1 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleArea" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TriangleArea" />
+      <module name="apcs" />
+      <option name="PROGRAM_PARAMETERS" value="2 4 6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniformRandom" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UniformRandom" />
+      <module name="apcs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="UseArgument" />
+      <module name="apcs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AP1995" />
+        <item itemvalue="Application.DiscreteTest" />
+        <item itemvalue="Application.FracTri" />
+        <item itemvalue="Application.DecToHex" />
+        <item itemvalue="Application.Binary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="054fff33-63b6-4b86-8e3f-efef5914b939" name="Default Changelist" comment="" />
+      <created>1567716564451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567716564451</updated>
+      <workItem from="1567716567702" duration="244000" />
+      <workItem from="1567716923834" duration="1996000" />
+      <workItem from="1568246848695" duration="281000" />
+      <workItem from="1568290509033" duration="669000" />
+      <workItem from="1568311749467" duration="953000" />
+      <workItem from="1568335571950" duration="795000" />
+      <workItem from="1568336726050" duration="2126000" />
+      <workItem from="1568414136803" duration="1932000" />
+      <workItem from="1568425188912" duration="365000" />
+      <workItem from="1568513701418" duration="1991000" />
+      <workItem from="1568744346778" duration="1598000" />
+      <workItem from="1568830250658" duration="518000" />
+      <workItem from="1569004660758" duration="692000" />
+      <workItem from="1569278211346" duration="989000" />
+      <workItem from="1569349227541" duration="317000" />
+      <workItem from="1569454083555" duration="1169000" />
+      <workItem from="1569460347901" duration="274000" />
+      <workItem from="1569540672420" duration="1255000" />
+      <workItem from="1569681514349" duration="14000" />
+      <workItem from="1570040689011" duration="756000" />
+      <workItem from="1570114444666" duration="2209000" />
+      <workItem from="1570142854755" duration="269000" />
+      <workItem from="1570212744793" duration="1652000" />
+      <workItem from="1570291420604" duration="254000" />
+      <workItem from="1570471846644" duration="907000" />
+      <workItem from="1570558421019" duration="198000" />
+      <workItem from="1570558799866" duration="98000" />
+      <workItem from="1570817469635" duration="2111000" />
+      <workItem from="1570916029566" duration="123000" />
+      <workItem from="1570916202714" duration="40000" />
+      <workItem from="1570916334530" duration="48000" />
+      <workItem from="1570916629472" duration="34000" />
+      <workItem from="1570916690567" duration="246000" />
+      <workItem from="1570937487065" duration="1408000" />
+      <workItem from="1571163435076" duration="1269000" />
+      <workItem from="1571174866013" duration="2000" />
+      <workItem from="1571190924033" duration="164000" />
+      <workItem from="1571251220874" duration="547000" />
+      <workItem from="1571336550737" duration="1203000" />
+      <workItem from="1571341474794" duration="2376000" />
+      <workItem from="1571350121097" duration="4172000" />
+      <workItem from="1571358731732" duration="1733000" />
+      <workItem from="1571398957038" duration="927000" />
+      <workItem from="1571681598160" duration="302000" />
+      <workItem from="1571744276394" duration="1280000" />
+      <workItem from="1571769645518" duration="450000" />
+      <workItem from="1571789163155" duration="853000" />
+      <workItem from="1571845830424" duration="624000" />
+      <workItem from="1571870203132" duration="5736000" />
+      <workItem from="1571940710733" duration="2257000" />
+      <workItem from="1571951658723" duration="972000" />
+      <workItem from="1572023194269" duration="4377000" />
+      <workItem from="1572052478381" duration="523000" />
+      <workItem from="1572214539713" duration="1535000" />
+      <workItem from="1572286436991" duration="1422000" />
+      <workItem from="1572359223377" duration="2132000" />
+      <workItem from="1572372777601" duration="1902000" />
+      <workItem from="1572456577590" duration="1720000" />
+      <workItem from="1572618469087" duration="764000" />
+      <workItem from="1572871488995" duration="23000" />
+      <workItem from="1572914879660" duration="90000" />
+      <workItem from="1572915104178" duration="18000" />
+      <workItem from="1572915146572" duration="4505000" />
+      <workItem from="1572997647898" duration="1002000" />
+      <workItem from="1573427740674" duration="5293000" />
+      <workItem from="1573434263351" duration="40000" />
+      <workItem from="1573434309111" duration="127000" />
+      <workItem from="1573605108092" duration="7475000" />
+      <workItem from="1573649587137" duration="2411000" />
+      <workItem from="1573694059999" duration="1567000" />
+      <workItem from="1573734507764" duration="260000" />
+      <workItem from="1573745397282" duration="1369000" />
+      <workItem from="1573759121206" duration="2766000" />
+      <workItem from="1574104326924" duration="1408000" />
+      <workItem from="1574110122716" duration="2364000" />
+      <workItem from="1574190584339" duration="1508000" />
+      <workItem from="1574199669721" duration="3678000" />
+      <workItem from="1574288990780" duration="3966000" />
+      <workItem from="1574342548013" duration="1389000" />
+      <workItem from="1574463285765" duration="2177000" />
+      <workItem from="1574467814290" duration="674000" />
+      <workItem from="1574516577434" duration="555000" />
+      <workItem from="1574545849841" duration="263000" />
+      <workItem from="1574630641537" duration="2569000" />
+      <workItem from="1574709398549" duration="1717000" />
+      <workItem from="1574771937969" duration="159000" />
+      <workItem from="1574795603748" duration="1679000" />
+      <workItem from="1574822467645" duration="677000" />
+      <workItem from="1574868212778" duration="3395000" />
+      <workItem from="1574973837983" duration="1510000" />
+      <workItem from="1575079447504" duration="1042000" />
+      <workItem from="1575304408882" duration="271000" />
+      <workItem from="1575313820678" duration="2027000" />
+      <workItem from="1575334011228" duration="101000" />
+      <workItem from="1575334129499" duration="1352000" />
+      <workItem from="1575401464040" duration="967000" />
+      <workItem from="1575486693919" duration="1162000" />
+      <workItem from="1575548280103" duration="2872000" />
+      <workItem from="1575560200898" duration="389000" />
+      <workItem from="1575572971290" duration="1932000" />
+      <workItem from="1575659473796" duration="1916000" />
+      <workItem from="1575918799524" duration="2700000" />
+      <workItem from="1576004906684" duration="1998000" />
+      <workItem from="1576091843063" duration="1895000" />
+      <workItem from="1576178715615" duration="737000" />
+      <workItem from="1576245618865" duration="3901000" />
+      <workItem from="1576290982184" duration="432000" />
+      <workItem from="1576523546822" duration="2016000" />
+      <workItem from="1576529800828" duration="62000" />
+      <workItem from="1576593609299" duration="149000" />
+      <workItem from="1576609738381" duration="2117000" />
+      <workItem from="1576710746313" duration="32000" />
+      <workItem from="1576710832948" duration="1844000" />
+      <workItem from="1576769615940" duration="1402000" />
+      <workItem from="1576776438124" duration="2504000" />
+      <workItem from="1576799593335" duration="5097000" />
+      <workItem from="1576884878820" duration="15000" />
+      <workItem from="1577049740463" duration="1100000" />
+      <workItem from="1577410374285" duration="17000" />
+      <workItem from="1577992419859" duration="1449000" />
+      <workItem from="1578078794040" duration="1711000" />
+      <workItem from="1578349158407" duration="2665000" />
+      <workItem from="1578424329764" duration="1758000" />
+      <workItem from="1578445703128" duration="60000" />
+      <workItem from="1578445829654" duration="1313000" />
+      <workItem from="1578527143261" duration="592000" />
+      <workItem from="1578618323313" duration="1098000" />
+      <workItem from="1578627624079" duration="166000" />
+      <workItem from="1578670307140" duration="2110000" />
+      <workItem from="1578683433752" duration="2349000" />
+      <workItem from="1578743178022" duration="390000" />
+      <workItem from="1578942737734" duration="1699000" />
+      <workItem from="1579116611831" duration="742000" />
+      <workItem from="1579201966657" duration="1175000" />
+      <workItem from="1579288292883" duration="1709000" />
+      <workItem from="1579384829219" duration="4804000" />
+      <workItem from="1579474903227" duration="1187000" />
+      <workItem from="1579541749555" duration="434000" />
+      <workItem from="1579617477244" duration="2904000" />
+      <workItem from="1580053105335" duration="527000" />
+      <workItem from="1580223639583" duration="436000" />
+      <workItem from="1580309191832" duration="1471000" />
+      <workItem from="1580340462560" duration="1849000" />
+      <workItem from="1580342567470" duration="54000" />
+      <workItem from="1580390423531" duration="1189000" />
+      <workItem from="1580394819970" duration="158000" />
+      <workItem from="1580394981344" duration="188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom" timestamp="1578619751134">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578619054073" />
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1578619751134" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center" timestamp="1578619751133">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578619054072" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1578619751133" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left" timestamp="1578619751132">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578619054072" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1578619751132" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right" timestamp="1578619751134">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578619054073" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1578619751134" />
+    <state x="240" y="197" key="SettingsEditor" timestamp="1578445973354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="240" y="197" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1578445973354" />
+    <state x="229" y="66" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1570916439695" />
+    <state x="376" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1570916042299">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="376" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1570916042299" />
+    <state x="385" y="198" width="670" height="605" key="search.everywhere.popup" timestamp="1578685508704">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1578671528524" />
+    <state x="385" y="198" width="670" height="605" key="search.everywhere.popup/0.23.1440.805@0.23.1440.805" timestamp="1578685508704" />
+  </component>
+</project>

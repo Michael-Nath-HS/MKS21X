@@ -1,5 +1,5 @@
 /******************************************************************************
- *  Compilation:  javac Ruler.java
+ *  Compilation:  javac NewRuler.java
  *  Execution:    java Ruler
  *  
  *  Prints the relative lengths of the subdivisions on a ruler.

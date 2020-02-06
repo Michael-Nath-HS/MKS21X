@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="clion" targetName="Algo" />
+      <config projectName="clion" targetName="clion" />
+      <config projectName="clion" targetName="Chap1Loop" />
+      <config projectName="clion" targetName="Chap1" />
+      <config projectName="clion" targetName="AllOdd" />
+      <config projectName="clion" targetName="String" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34b4a8e0-6764-4c0a-8874-0a26caf16816" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ai/tictactoe/.ipynb_checkpoints/ttt_calculations-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai/tictactoe/ttt_calcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai/tictactoe/ttt_calculations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/a_very_big_sum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/compare_the_triplets.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/diagonal_difference.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/simple_array_sum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap3/string.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomstuff/rangeminquery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomstuff/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomstuff/stack_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting/mergesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting/shell_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spoj/monkandnicestrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../usaco/addnbit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usaco/insertion_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting/insertion_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork/day3/Ruler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../classwork/day3/Ruler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1VSIwSt15a0OuzsjehhxbvYF5p1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.C/C++" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chap1" />
+      <recent name="$PROJECT_DIR$/chap1/addInts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Algo">
+    <configuration name="Algo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="clion" TARGET_NAME="Algo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="clion" RUN_TARGET_NAME="Algo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllOdd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="clion" TARGET_NAME="AllOdd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="clion" RUN_TARGET_NAME="AllOdd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="clion" TARGET_NAME="Chap1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="clion" RUN_TARGET_NAME="Chap1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap1Loop" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="clion" TARGET_NAME="Chap1Loop" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="clion" RUN_TARGET_NAME="Chap1Loop">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="clion" TARGET_NAME="String" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="clion" RUN_TARGET_NAME="String">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clion" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="clion" TARGET_NAME="clion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="clion" RUN_TARGET_NAME="clion">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Algo" />
+      <item itemvalue="CMake Application.AllOdd" />
+      <item itemvalue="CMake Application.Chap1" />
+      <item itemvalue="CMake Application.Chap1Loop" />
+      <item itemvalue="CMake Application.clion" />
+      <item itemvalue="CMake Application.String" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34b4a8e0-6764-4c0a-8874-0a26caf16816" name="Default Changelist" comment="" />
+      <created>1577240307101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577240307101</updated>
+      <workItem from="1577240308635" duration="803000" />
+      <workItem from="1577241216134" duration="1581000" />
+      <workItem from="1577311407360" duration="2127000" />
+      <workItem from="1577313969948" duration="310000" />
+      <workItem from="1577926079129" duration="273000" />
+      <workItem from="1580051412696" duration="1514000" />
+      <workItem from="1580262209096" duration="2539000" />
+      <workItem from="1580346827870" duration="1858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580264736997">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580264736997" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580051585268">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1580051585268" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1580304043658">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580263448093" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1580304043658" />
+    <state width="405" height="545" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1577314572082" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1580304043653">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580263448091" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1580304043653" />
+    <state width="405" height="545" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1577314572081" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1580304043646">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580263448090" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1580304043646" />
+    <state width="405" height="545" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1577314572081" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1580304043655">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580263448092" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1580304043655" />
+    <state width="405" height="545" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1577314572082" />
+    <state x="159" y="178" key="SettingsEditor" timestamp="1580264760706">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="159" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580264760706" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1577314042977">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1577314042977" />
+  </component>
+</project>

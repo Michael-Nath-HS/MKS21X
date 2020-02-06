@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="clion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="String">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/String" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 String"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="String/fast">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/String" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 String/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algo">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Algo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algo/fast">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Algo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AllOdd">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/AllOdd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 AllOdd"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AllOdd/fast">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/AllOdd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 AllOdd/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chap1Loop">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Chap1Loop" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chap1Loop"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chap1Loop/fast">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Chap1Loop" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chap1Loop/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chap1">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Chap1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chap1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chap1/fast">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Chap1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chap1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clion">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clion"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clion/fast">
+				<Option output="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michaelnath/apcs/ccc/clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clion/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/michaelnath/apcs/ccc/clion/algo">
+			<Option target="Algo"/>
+		</Unit>
+		<Unit filename="/Users/michaelnath/apcs/ccc/clion/algo/a_very_big_sum.cpp">
+			<Option target="Algo"/>
+		</Unit>
+		<Unit filename="/Users/michaelnath/apcs/ccc/clion/algo/compare_the_triplets.cpp">
+			<Option target="Algo"/>
+		</Unit>
+		<Unit filename="/Users/michaelnath/apcs/ccc/clion/algo/diagonal_difference.cpp">
+			<Option target="Algo"/>
+		</Unit>
+		<Unit filename="/Users/michaelnath/apcs/ccc/clion/algo/simple_array_sum.cpp">
+			<Option target="Algo"/>
+		</Unit>
+		<Unit filename="/Users/michaelnath/apcs/ccc/clion/chap1/loop.cpp">
+			<Option target="Chap1Loop"/>
+		</Unit>
+		<Unit filename="/Users/michaelnath/apcs/ccc/clion/chap1/odd.cpp">
+			<Option target="AllOdd"/>
+		</Unit>
+		<Unit filename="/Users/michaelnath/apcs/ccc/clion/chap1/printname.cpp">
+			<Option target="Chap1"/>
+		</Unit>
+		<Unit filename="/Users/michaelnath/apcs/ccc/clion/chap3/string.cpp">
+			<Option target="String"/>
+		</Unit>
+		<Unit filename="/Users/michaelnath/apcs/ccc/clion/main.cpp">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/michaelnath/apcs/ccc/clion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

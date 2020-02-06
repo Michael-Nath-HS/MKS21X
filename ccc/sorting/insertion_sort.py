@@ -1,8 +1,10 @@
 from random import randint
+from time import time
 # insert_sort: performs insertion sort on an array of integers
 
 
 def insert_sort(array):
+    start = time()
     for j in range(1, len(array)):
         key = array[j]
         i = j - 1
@@ -11,7 +13,7 @@ def insert_sort(array):
             i -= 1
         array[i + 1] = key
 
-    return array
+    return array, "TIME: {}".format(time() - start)
 
 # rev_insert: sorts an array of integers in order of greatest to least
 
@@ -44,10 +46,10 @@ def linear_search(arr, elem):
     return None
 
 
-a = [randint(1, 100) for x in range(15)]
+a = [randint(1, 10000) for x in range(1000)]
 b = randint(1, 100)
 
-print("Original Array: {}".format(a))
+# print("Original Array: {}".format(a))
 print("Least to Greatest: {}".format(insert_sort(a)))
-print("Greatest to Least: {}".format(rev_insert(a)))
-print("{} in array: {}".format(b, linear_search(a, b)))
+# print("Greatest to Least: {}".format(rev_insert(a)))
+# print("{} in array: {}".format(b, linear_search(a, b)))

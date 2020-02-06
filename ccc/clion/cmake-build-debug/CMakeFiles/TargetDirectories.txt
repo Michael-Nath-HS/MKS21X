@@ -1,0 +1,8 @@
+/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/CMakeFiles/String.dir
+/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/CMakeFiles/Algo.dir
+/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/CMakeFiles/AllOdd.dir
+/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/CMakeFiles/Chap1Loop.dir
+/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/CMakeFiles/Chap1.dir
+/Users/michaelnath/apcs/ccc/clion/cmake-build-debug/CMakeFiles/clion.dir

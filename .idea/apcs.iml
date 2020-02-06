@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/classwork/day0/hello" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/day0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/initials" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/day3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testtinggg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/exercises/WindChill" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/exercises/DayOfWeek" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/exercises/lesson1.2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/exercises/practice_test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practest/test2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/day7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practest/test3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ccc/pclassic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practest/test4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/input" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ccc/usaco" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw23" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/draw" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practest/method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw26" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw28" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/imports" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practest/test5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practest/test5study" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ccc/sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw31" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/hw32" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork23" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practest/final" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ccc/randomstuff" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classwork/classwork2-1" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/classwork/day0/hello" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

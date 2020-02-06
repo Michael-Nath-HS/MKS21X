@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab19e5e9-8793-4288-9929-9125398db45a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ai/tictactoe/.ipynb_checkpoints/ttt_calculations-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ai/tictactoe/ttt_calcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ai/tictactoe/ttt_calculations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clion/chap3/string.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomstuff/rangeminquery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomstuff/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomstuff/stack_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/mergesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/shell_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spoj/monkandnicestrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usaco/addnbit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usaco/insertion_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/insertion_sort.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TDBCHx2g23lgSElEt7OJzKavxE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/reimagined-rotary-phone" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sorting" />
+      <recent name="$PROJECT_DIR$/usaco" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.stack_test">
+    <configuration name="day4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ccc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aoc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aoc/day4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insertion_sort" type="PythonConfigurationType" factoryName="Python">
+      <module name="ccc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pclassic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting/insertion_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="monkandnicestrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ccc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spoj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spoj/monkandnicestrings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rangeminquery" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ccc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomstuff" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomstuff/rangeminquery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="selection_sort" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ccc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sorting" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting/selection_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shell_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ccc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting/shell_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stack_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ccc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomstuff" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomstuff/stack_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.insertion_sort" />
+      <item itemvalue="Python.selection_sort" />
+      <item itemvalue="Python.day4" />
+      <item itemvalue="Python.shell_sort" />
+      <item itemvalue="Python.monkandnicestrings" />
+      <item itemvalue="Python.rangeminquery" />
+      <item itemvalue="Python.stack_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.stack_test" />
+        <item itemvalue="Python.rangeminquery" />
+        <item itemvalue="Python.monkandnicestrings" />
+        <item itemvalue="Python.shell_sort" />
+        <item itemvalue="Python.day4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab19e5e9-8793-4288-9929-9125398db45a" name="Default Changelist" comment="" />
+      <created>1572984656202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572984656202</updated>
+      <workItem from="1572984657473" duration="5162000" />
+      <workItem from="1573054065736" duration="877000" />
+      <workItem from="1573068158015" duration="626000" />
+      <workItem from="1573227335882" duration="494000" />
+      <workItem from="1573241056900" duration="2595000" />
+      <workItem from="1573746917182" duration="408000" />
+      <workItem from="1573760141970" duration="756000" />
+      <workItem from="1573845204922" duration="1583000" />
+      <workItem from="1573928240173" duration="1130000" />
+      <workItem from="1574569859010" duration="1764000" />
+      <workItem from="1574603805925" duration="2346000" />
+      <workItem from="1574626002936" duration="2682000" />
+      <workItem from="1575218815511" duration="1523000" />
+      <workItem from="1575289457409" duration="1101000" />
+      <workItem from="1575300281899" duration="925000" />
+      <workItem from="1575375296841" duration="1960000" />
+      <workItem from="1575400352742" duration="2956000" />
+      <workItem from="1575769798668" duration="5315000" />
+      <workItem from="1575991636756" duration="27000" />
+      <workItem from="1576507434625" duration="681000" />
+      <workItem from="1576883839010" duration="42000" />
+      <workItem from="1576883897616" duration="287000" />
+      <workItem from="1576884210653" duration="3683000" />
+      <workItem from="1576893141047" duration="371000" />
+      <workItem from="1576951467443" duration="1107000" />
+      <workItem from="1576959431508" duration="957000" />
+      <workItem from="1577047833368" duration="1838000" />
+      <workItem from="1577049683242" duration="1121000" />
+      <workItem from="1577062303110" duration="2549000" />
+      <workItem from="1577160245685" duration="804000" />
+      <workItem from="1577209445934" duration="3197000" />
+      <workItem from="1577246705426" duration="21000" />
+      <workItem from="1578743843230" duration="1563000" />
+      <workItem from="1579971354839" duration="980000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Updated my currrent workings.&quot;">
+      <created>1574627851066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574627851066</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Olympiad Prep!">
+      <created>1574627947461</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574627947461</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated workings. Started learning search algorithms (Insertion Search, Linear Search).">
+      <created>1576888828344</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576888828344</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Updated my currrent workings.&quot;" />
+    <MESSAGE value="Olympiad Prep!" />
+    <MESSAGE value="updated workings. Started learning search algorithms (Insertion Search, Linear Search)." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated workings. Started learning search algorithms (Insertion Search, Linear Search)." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aoc/day3.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ccc$monkandnicestrings.coverage" NAME="monkandnicestrings Coverage Results" MODIFIED="1577212622501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spoj" />
+    <SUITE FILE_PATH="coverage/ccc$day3.coverage" NAME="day3 Coverage Results" MODIFIED="1575401961785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aoc" />
+    <SUITE FILE_PATH="coverage/ccc$Riddles.coverage" NAME="Riddles Coverage Results" MODIFIED="1573847120188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pclassic" />
+    <SUITE FILE_PATH="coverage/ccc$stack_test.coverage" NAME="stack_test Coverage Results" MODIFIED="1579972259321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomstuff" />
+    <SUITE FILE_PATH="coverage/ccc$Clefairy.coverage" NAME="Clefairy Coverage Results" MODIFIED="1573760615084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pclassic" />
+    <SUITE FILE_PATH="coverage/ccc$gift1.coverage" NAME="gift1 Coverage Results" MODIFIED="1574627777070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/usaco" />
+    <SUITE FILE_PATH="coverage/ccc$day4.coverage" NAME="day4 Coverage Results" MODIFIED="1576509009526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aoc" />
+    <SUITE FILE_PATH="coverage/ccc$shell_sort.coverage" NAME="shell_sort Coverage Results" MODIFIED="1577065758369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting" />
+    <SUITE FILE_PATH="coverage/ccc$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1577063430363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pclassic" />
+    <SUITE FILE_PATH="coverage/ccc$pclassic1.coverage" NAME="pclassic1 Coverage Results" MODIFIED="1573227950284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pclassic" />
+    <SUITE FILE_PATH="coverage/ccc$infixtopostfix.coverage" NAME="infixtopostfix Coverage Results" MODIFIED="1573845257758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stacksnqueues" />
+    <SUITE FILE_PATH="coverage/ccc$day1.coverage" NAME="day1 Coverage Results" MODIFIED="1575220086070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aoc" />
+    <SUITE FILE_PATH="coverage/ccc$Med2SortedArrays.coverage" NAME="Med2SortedArrays Coverage Results" MODIFIED="1573263721163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pclassic" />
+    <SUITE FILE_PATH="coverage/ccc$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1575301113917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aoc" />
+    <SUITE FILE_PATH="coverage/ccc$examplee.coverage" NAME="examplee Coverage Results" MODIFIED="1573241251416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pclassic" />
+    <SUITE FILE_PATH="coverage/ccc$rangeminquery.coverage" NAME="rangeminquery Coverage Results" MODIFIED="1578745427922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomstuff" />
+    <SUITE FILE_PATH="coverage/ccc$day4sol.coverage" NAME="day4sol Coverage Results" MODIFIED="1575774943685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aoc" />
+    <SUITE FILE_PATH="coverage/ccc$selection_sort.coverage" NAME="selection_sort Coverage Results" MODIFIED="1577063438070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting" />
+  </component>
+</project>
