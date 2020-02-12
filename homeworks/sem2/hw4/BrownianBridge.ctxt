@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BrownianBridge
+comment1.params=x0\ y0\ x1\ y1\ variance\ sFactor
+comment1.target=void\ toDraw(double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

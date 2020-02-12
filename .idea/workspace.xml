@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="054fff33-63b6-4b86-8e3f-efef5914b939" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ai/tictactoe/.ipynb_checkpoints/ttt_calculations-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ai/tictactoe/ttt_calcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ai/tictactoe/ttt_calculations.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/clion/algo/a_very_big_sum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/clion/algo/compare_the_triplets.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/clion/algo/diagonal_difference.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/clion/algo/simple_array_sum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/clion/chap3/string.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/randomstuff/rangeminquery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/randomstuff/stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/randomstuff/stack_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/sorting/mergesort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/sorting/selection_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/sorting/shell_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/spoj/monkandnicestrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc/usaco/addnbit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bwsi/PythonHW-1.2.4/heat_dispersion/HW_heat_dispersion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bwsi/PythonHW-1.2.4/heat_dispersion/HW_heat_dispersion.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ccc/usaco/insertion_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/ccc/sorting/insertion_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classwork/day3/Ruler.java" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/day3/Ruler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -443,6 +425,7 @@
       <workItem from="1580390423531" duration="1189000" />
       <workItem from="1580394819970" duration="158000" />
       <workItem from="1580394981344" duration="188000" />
+      <workItem from="1580955421419" duration="22000" />
     </task>
     <servers />
   </component>

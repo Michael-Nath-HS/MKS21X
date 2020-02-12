@@ -1,0 +1,23 @@
+1. DONE
+2. The parameter in the program is the 'args' parameter in the main method.
+3. n, thue, morse, i
+4.There are no fields.
+5. public class ThueMorse {
+       public static void main(String[] args) { args scope ....
+           int n = Integer.parseInt(args[0]); n scope ****
+           String thue   = "0"; thue scope !!!!
+           String morse  = "1"; morse scope ????
+
+           for (int i = 1; i <= n; i++) { i scope ^^^^
+               String t = thue;             // save away values
+               String m = morse;
+               thue  += m;
+               morse += t;
+           } ^^^^
+           System.out.println(thue);
+       } **** !!!! ???? ....
+   }
+
+
+   6. 2^n
+   7. at n = 29, the program crashes due to too much memory usage.

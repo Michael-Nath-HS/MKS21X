@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0eee9e91-067e-4df5-bfbd-e7f7b08eef67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ai/tictactoe/.ipynb_checkpoints/ttt_calculations-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ai/tictactoe/ttt_calcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ai/tictactoe/ttt_calculations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ccc/clion/chap3/string.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ccc/randomstuff/rangeminquery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ccc/sorting/mergesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ccc/sorting/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ccc/sorting/shell_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ccc/spoj/monkandnicestrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ccc/usaco/addnbit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ccc/usaco/insertion_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ccc/sorting/insertion_sort.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WY1J3BjeXJLPBc0Jvucy2AHVQu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bwsi" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eee9e91-067e-4df5-bfbd-e7f7b08eef67" name="Default Changelist" comment="" />
+      <created>1579311639182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579311639182</updated>
+      <workItem from="1579311642487" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
